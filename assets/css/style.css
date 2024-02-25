@@ -18,11 +18,15 @@ ul {
   }
   
   li a:hover {
-    background-color: #ef2f15;
+    background-color: #1577ef;
   }
 
   .activo {
-    background-color: #7d2b20;
+    background-color: #0d147b;
+  }
+
+  .derecha {
+    float: right;
   }
 
   .miJumbo {
