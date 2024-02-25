@@ -21,6 +21,10 @@ ul {
     background-color: #ef2f15;
   }
 
+  .activo {
+    background-color: #7d2b20;
+  }
+
   .miJumbo {
     margin-top: 1rem;
     padding: 32px 16px;
